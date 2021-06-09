@@ -28,6 +28,7 @@ PC Instructions:
     https://github.com/limen123/MoM-World-Tour-BGM-Modpack/releases/tag/V1.0
     
 2. After extracting, you should end up with a Songs folder. Within it should be BBS, DDD, KH1, KH2, and KH3 folders.
+
       ![image](https://user-images.githubusercontent.com/27838339/121298468-eb7ccc80-c8c1-11eb-92f0-24ee487334e1.png)
 
 3. Download the batch files from the main page or on the release page:
@@ -35,6 +36,7 @@ PC Instructions:
     https://github.com/limen123/MoM-World-Tour-BGM-Modpack/releases/tag/V1.0
     
 4. Place the batch files in the same folder as the Songs folder. It should now be together like this:
+
       ![image](https://user-images.githubusercontent.com/27838339/121298565-18c97a80-c8c2-11eb-8072-c3883ce561b8.png)
 
 5. Run the 1ST STEP batch file located in the pack to create backups of the original BGM track.

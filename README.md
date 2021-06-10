@@ -42,6 +42,7 @@ PC Instructions:
 5. Run the 1ST STEP batch file located in the pack to create backups of the original BGM track.
 	- By default, your game should be in "C:\Program Files\Epic Games\KH_MoM". If it is not, you
 	  will have to locate it yourself. Try searching "KH_MoM" if you're having trouble.
+	- Verify that your backup was created in the Songs\KH1\1\ folder
     
 6. Once you have finished creating backups, run the 2ND STEP batch file located in the pack. For subsequent uses, you ONLY need to run THIS BATCH FILE. You do not need to create backups every time. Make sure you are NOT hovering in World Tour while you replace the track.
 	- KH1 will let you choose between original and remastered versions of KH1's Precious Stars in the Sky
